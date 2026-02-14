@@ -11,3 +11,8 @@ wheels/
 
 # environment variables
 .env
+
+# Data directories
+logs/
+raw_data/
+processed/
